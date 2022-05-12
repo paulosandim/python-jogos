@@ -1,7 +1,3 @@
-# Course Link
-
-https://cursos.alura.com.br/formacao-Python-linguagem
-
 ## Build Setup
 
 ### install dependencies for Windows
